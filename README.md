@@ -656,18 +656,6 @@ My repositories contain:
 
 ---
 
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=enaytsheikh&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enaytsheikh&layout=compact&hide_border=true&theme=transparent" height="180"/>
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
